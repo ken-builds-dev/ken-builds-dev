@@ -34,7 +34,7 @@ title       : Software Developer
 location    : Philippines 🇵🇭
 company     : QuickMSP (February – Present)
 education   : B.S. Information Technology (2025)
-email       : kenjim.g12@gmail.com
+email       : kenjimgrande.dev@gmail.com
 
 focus:
   - Desktop, Web & Mobile application development
