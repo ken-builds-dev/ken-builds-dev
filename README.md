@@ -1,19 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:203A43,100:2C5364&height=220&section=header&text=Ken%20Grande&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Backend-Focused%20Full-Stack%20Developer&descAlignY=59&descSize=20" width="100%" alt="Ken Grande banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:203A43,100:2C5364&height=220&section=header&text=Ken%20Grande&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=.NET%20Backend%20Developer%20%7C%20Trading%20Systems%20%7C%20SQL-Backed%20Applications&descAlignY=59&descSize=18" width="100%" alt="Ken Grande profile banner"/>
 
 <img src="https://github.com/kenneennn.png" width="135" alt="Ken Grande profile photo"/>
 
-<br/>
+## Backend-focused software developer from the Philippines
 
-### C# · .NET · ASP.NET Core · React · SQL · REST APIs
-
-Building reliable backend systems, trading-platform components, and practical software for real-world operations.
+I build reliable APIs, transaction workflows, database-backed applications, and operational software using **C#**, **.NET**, and **SQL**.
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-2C5364?style=for-the-badge\&logo=vercel\&logoColor=white)](https://itsme-ken.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/kenjim-grande-87575435b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-2C5364?style=for-the-badge\&logo=vercel\&logoColor=white)](https://itsme-ken.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/kenjim-grande-87575435b)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kenjimgrande.dev@gmail.com)
 
 <br/>
@@ -21,160 +19,66 @@ Building reliable backend systems, trading-platform components, and practical so
 ![Profile Views](https://komarev.com/ghpvc/?username=kenneennn\&label=Profile%20Views\&color=2c5364\&style=flat-square)
 ![GitHub Followers](https://img.shields.io/github/followers/kenneennn?label=Followers\&style=flat-square\&color=203a43)
 ![Location](https://img.shields.io/badge/Location-Philippines-0038A8?style=flat-square)
-![Availability](https://img.shields.io/badge/Open%20to%20Opportunities-2EA043?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-.NET%20Backend-512BD4?style=flat-square)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I am a software developer from the Philippines specializing in **C# and .NET backend development**. I build SQL-backed applications, REST APIs, validation workflows, integrations, and user-facing features across web and desktop platforms.
+I am a software developer specializing in **C# and .NET backend development**. My work centers on REST APIs, SQL-backed workflows, validation rules, system integrations, and production-oriented troubleshooting.
 
-At **QuickMSP**, I contribute to trading-platform systems involving market data, financial instruments, order and transaction workflows, portfolio information, price feeds, and internal operational tools.
+At **QuickMSP**, I contribute to trading-platform components involving market data, financial instruments, order and transaction workflows, portfolio information, account data, and internal operational tools.
 
-I also designed and deployed an **Integrated Barangay Information System** used by a local government office to manage resident records, administrative reports, operational workflows, and GIS-based mapping.
+I also designed and deployed an **Integrated Barangay Information System** for a local government office. The system supports resident records, document processing, administrative reporting, financial monitoring, and GIS-based mapping.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### What I focus on
 
-### Current Focus
-
-* Backend engineering with C# and .NET
-* REST API design and integration
-* SQL-backed transaction workflows
-* Data validation and business rules
-* Maintainable system architecture
-* Financial technology systems
-
-</td>
-<td width="50%" valign="top">
-
-### Developer Snapshot
+* Designing clear REST API contracts
+* Implementing transaction and order workflows
+* Translating business rules into maintainable code
+* Building reliable SQL-backed features
+* Validating data across system boundaries
+* Diagnosing issues through logs, API responses, and database records
+* Improving deployment and operational reliability
 
 ```csharp
 public sealed class KenGrande
 {
-    public string Role =>
-        "Backend-Focused Full-Stack Developer";
-
-    public string Location =>
-        "Philippines 🇵🇭";
-
-    public string Company =>
-        "QuickMSP";
+    public string Role => ".NET Backend Developer";
+    public string Location => "Philippines 🇵🇭";
+    public string CurrentFocus => "Reliable APIs and transaction systems";
 
     public string Mission =>
-        "Build reliable software that solves real operational problems.";
+        "Build software that is clear, dependable, and useful in real operations.";
 }
 ```
 
-</td>
-</tr>
-</table>
-
 ---
 
-## 🚀 Featured Projects
-
-### 🏛️ Integrated Barangay Information System
-
-> A deployed desktop and web platform built for a barangay office in San Manuel, Isabela.
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-#### Core Capabilities
-
-* Resident and household information management
-* GIS-based household and zone mapping
-* Certification and document generation
-* Administrative dashboards and reports
-* Financial and operational monitoring
-* Desktop and web-based access
-* Role-based access for barangay personnel
-
-</td>
-<td width="45%" valign="top">
-
-#### Technology Stack
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=csharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square\&logo=googlemaps\&logoColor=white)
-
-<br/>
-
-[![View Demo](https://img.shields.io/badge/View%20Project%20Demo-2C5364?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://itsme-ken.vercel.app/project1-demo.html)
-
-</td>
-</tr>
-</table>
-
----
-
-### 🌐 Personal Developer Portfolio
-
-> A responsive portfolio website presenting my experience, technical skills, projects, and contact information.
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-#### Highlights
-
-* Responsive desktop and mobile layouts
-* Interactive project previews
-* Structured experience and skills sections
-* Mobile-friendly navigation
-* Production deployment through Vercel
-
-</td>
-<td width="45%" valign="top">
-
-#### Technology Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
-
-<br/>
-
-[![Visit Portfolio](https://img.shields.io/badge/Visit%20Live%20Website-2C5364?style=for-the-badge\&logo=vercel\&logoColor=white)](https://itsme-ken.vercel.app)
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 Professional Experience
+## Professional Experience
 
 ### Software Developer · QuickMSP
 
 **February 2026 – Present**
 
-* Develop components for trading-platform and order-management systems
+* Develop backend components for trading-platform and order-management workflows
 * Work with market data, price feeds, tickers, and financial instruments
-* Support order, transaction, portfolio, and account workflows
-* Build REST API and SQL-backed application features
-* Implement validation rules, integrations, and internal tools
-* Investigate production issues through logs, database records, and API responses
+* Support order, transaction, portfolio, cash, and account-related processes
+* Build and maintain REST API endpoints backed by SQL databases
+* Implement validation rules, business logic, and system integrations
+* Investigate application issues using logs, database records, and API responses
+* Support deployment and runtime troubleshooting in Linux environments
 
-**Core technologies**
+**Primary technologies**
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=csharp\&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square\&logo=fastapi\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 
 <br/>
 
@@ -182,18 +86,20 @@ public sealed class KenGrande
 
 **January 2025 – May 2025**
 
-* Built responsive React and Material UI components
+* Built responsive interfaces using React and Material UI
 * Integrated frontend features with REST APIs
-* Supported Node.js backend development
-* Used Git branches and pull requests for collaborative development
-* Contributed to testing, debugging, and feature delivery
+* Assisted with Node.js backend development
+* Used Git branches and pull requests in a collaborative workflow
+* Tested and debugged features using browser tools and Postman
+* Contributed to iterative feature delivery in an Agile environment
 
-**Core technologies**
+**Primary technologies**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square\&logo=mui\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 
 <br/>
 
@@ -201,21 +107,23 @@ public sealed class KenGrande
 
 **August 2024 – January 2025**
 
-* Designed, built, and deployed an information system for a barangay office
-* Developed resident management, reporting, GIS mapping, and monitoring features
-* Delivered desktop and web interfaces for real operational use
 * Gathered requirements directly from barangay personnel
+* Designed, developed, and deployed a desktop and web information system
+* Implemented resident, household, certification, reporting, and GIS features
+* Delivered administrative and financial monitoring workflows
 * Supported deployment, user acceptance, and system adoption
+* Built software intended for actual day-to-day government operations
 
-**Core technologies**
+**Primary technologies**
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=csharp\&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 ![GIS](https://img.shields.io/badge/GIS-34A853?style=flat-square\&logo=googlemaps\&logoColor=white)
 
 <details>
-<summary><strong>View earlier experience</strong></summary>
+<summary><strong>Earlier experience</strong></summary>
 
 <br/>
 
@@ -226,13 +134,67 @@ public sealed class KenGrande
 * Provided technical support to staff and students
 * Maintained computers and institutional IT resources
 * Assisted with hardware, software, and network troubleshooting
-* Supported day-to-day system administration activities
+* Supported routine system administration activities
 
 </details>
 
 ---
 
-## 🧰 Technical Skills
+## Featured Projects
+
+### Integrated Barangay Information System
+
+> A deployed desktop and web platform created for a barangay office in San Manuel, Isabela.
+
+The system centralizes resident information, household records, document processing, administrative reporting, financial monitoring, and GIS-based mapping.
+
+#### Key capabilities
+
+* Resident and household information management
+* GIS-based household, landmark, and zone mapping
+* Certification and document generation
+* Administrative dashboards and reports
+* Expense and financial monitoring
+* Desktop and web-based access
+* Role-based access for barangay personnel
+
+#### Technology stack
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=csharp\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square\&logo=googlemaps\&logoColor=white)
+
+[![View Project Demo](https://img.shields.io/badge/View%20Project%20Demo-2C5364?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://itsme-ken.vercel.app/project1-demo.html)
+
+---
+
+### Personal Developer Portfolio
+
+> A responsive website presenting my professional experience, technical skills, projects, and contact information.
+
+#### Highlights
+
+* Responsive desktop and mobile layouts
+* Interactive project previews
+* Structured experience and skills sections
+* Mobile-friendly navigation
+* Production deployment through Vercel
+
+#### Technology stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
+
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20Live%20Website-2C5364?style=for-the-badge\&logo=vercel\&logoColor=white)](https://itsme-ken.vercel.app)
+
+---
+
+## Technical Skills
 
 <div align="center">
 
@@ -240,25 +202,29 @@ public sealed class KenGrande
 
 </div>
 
-<br/>
-
-<table>
-<tr>
-<td width="25%" valign="top">
-
 ### Backend
 
 * C#
 * .NET
 * ASP.NET Core
-* REST APIs
-* Node.js
+* REST API development
 * Dapper
-* Authentication
-* API validation
+* Node.js
+* Authentication and authorization
+* Request validation
+* Business-rule implementation
+* Background and integration workflows
 
-</td>
-<td width="25%" valign="top">
+### Databases and Data
+
+* SQL Server
+* MySQL
+* SQLite
+* Relational database design
+* SQL querying and optimization
+* Transactional data workflows
+* Data validation
+* ETL and synchronization processes
 
 ### Frontend
 
@@ -270,68 +236,58 @@ public sealed class KenGrande
 * Responsive design
 * Blazor
 
-</td>
-<td width="25%" valign="top">
-
-### Data
-
-* SQL Server
-* MySQL
-* SQLite
-* Database design
-* Data validation
-* Query optimization
-* ETL workflows
-
-</td>
-<td width="25%" valign="top">
-
-### Tools
+### Engineering Tools
 
 * Git and GitHub
 * Docker
 * Postman
-* Swagger
+* Swagger / OpenAPI
 * JetBrains Rider
 * Visual Studio
-* VS Code
+* Visual Studio Code
 * Linux
+* Serilog
+* Systemd
 
-</td>
-</tr>
-</table>
+### Areas I am strengthening
 
-### Currently Deepening
-
-<div align="center">
-
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-203A43?style=for-the-badge)
-![Domain-Driven Design](https://img.shields.io/badge/Domain--Driven%20Design-2C5364?style=for-the-badge)
-![Messaging](https://img.shields.io/badge/Messaging-203A43?style=for-the-badge)
-![Observability](https://img.shields.io/badge/Observability-2C5364?style=for-the-badge)
-![Cloud Infrastructure](https://img.shields.io/badge/Cloud%20Infrastructure-203A43?style=for-the-badge)
-
-</div>
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-203A43?style=flat-square)
+![Domain-Driven Design](https://img.shields.io/badge/Domain--Driven%20Design-2C5364?style=flat-square)
+![Messaging](https://img.shields.io/badge/Asynchronous%20Messaging-203A43?style=flat-square)
+![Observability](https://img.shields.io/badge/Observability-2C5364?style=flat-square)
+![Cloud Infrastructure](https://img.shields.io/badge/Cloud%20Infrastructure-203A43?style=flat-square)
 
 ---
 
-## ⚙️ How I Work
+## Engineering Approach
 
 ```text
-01. Understand the business requirement
-02. Break it into focused technical tasks
+01. Clarify the business requirement and expected outcome
+02. Identify system boundaries, dependencies, and failure cases
 03. Design the data model and API contract
 04. Implement validation and business rules
 05. Test normal, edge, and failure scenarios
-06. Document deployment and technical decisions
-07. Improve the system using production feedback
+06. Document configuration, deployment, and technical decisions
+07. Improve the system using operational feedback
 ```
 
-> I value clear requirements, reliable validation, maintainable architecture, and software that remains understandable after deployment.
+I value explicit requirements, defensive validation, useful logs, maintainable architecture, and software that remains understandable after deployment.
 
 ---
 
-## 📊 GitHub Activity
+## What I Bring
+
+* Backend-focused development using **C# and .NET**
+* Experience with **transactional and SQL-backed systems**
+* Practical exposure to **financial technology and trading workflows**
+* Full-stack experience across **React, JavaScript, APIs, and databases**
+* Experience delivering software for an actual **government office**
+* A methodical approach to **validation, debugging, and maintainability**
+* Ability to translate operational requirements into working software
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
@@ -345,27 +301,15 @@ public sealed class KenGrande
 
 </div>
 
-> GitHub statistics reflect activity in public repositories and do not represent my complete professional experience or overall technical proficiency.
+> GitHub statistics only reflect activity visible in public repositories. They do not represent the complete scope of my professional work or technical experience.
 
 ---
 
-## 🎯 What I Bring
+## Let’s Connect
 
-* Backend-focused development using **C# and .NET**
-* Experience building **transactional and SQL-backed systems**
-* Practical exposure to **financial technology and trading workflows**
-* Full-stack experience across **React, JavaScript, APIs, and databases**
-* Experience delivering software for an actual **government office**
-* Strong attention to **validation, debugging, and maintainability**
-* Ability to translate operational requirements into working software
+I am interested in opportunities involving:
 
----
-
-## 🤝 Let’s Connect
-
-I am open to opportunities involving:
-
-**Backend Engineering · Full-Stack Development · Financial Technology · Government Technology · Internal Business Systems · API Development**
+**.NET Backend Development · API Engineering · Financial Technology · Trading Systems · Internal Business Systems · Full-Stack Development**
 
 <div align="center">
 
